@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2002hitanshu&label=Profile%20views&color=0e75b6&style=flat" alt="2002hitanshu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2002hitanshu" alt="2002hitanshu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/hitanshu__singh" target="blank"><img src="https://img.shields.io/twitter/follow/hitanshu__singh?logo=twitter&style=for-the-badge" alt="hitanshu__singh" /></a> </p>
 
@@ -33,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2002hitanshu&show_icons=true&locale=en" alt="2002hitanshu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2002hitanshu&" alt="2002hitanshu" /></p>
+
+<div align="center">
+  <i>⚡ Currently working on exciting new projects - More coming soon! ⚡</i>
+</div>
