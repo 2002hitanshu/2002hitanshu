@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hitanshu Singh</h1>
-<h3 align="center">Full Stack Developer from India with expertise in modern web technologies. I specialize in building scalable applications using Next.js, React, and various backend technologies. Currently available for freelance opportunities! 🚀 Building cool applications that solve the pain points :) 📚 Currently mastering fundamentals. 🎯 Open to freelance projects and collaborations 📺 Movie enthusiast and avid reader</h3>
+<h3 align="center">Full Stack Developer from India with expertise in modern web technologies. I specialize in building scalable applications using Next.js, React, and various backend technologies. Currently available for freelance opportunities! 🚀 Building cool applications that solve the pain points :) 📚 Currently mastering fundamentals. 🎯 Open to freelance projects and collaborations 📺 Movie enthusiast and avid explorer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
