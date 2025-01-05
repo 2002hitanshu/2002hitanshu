@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **ML and models**
 
-- 👨‍💻 All of my socials are available at [bento,me/hitanshusingh](bento,me/hitanshusingh)
+- 👨‍💻 All of my socials are available at [bento.me/hitanshusingh](bento,me/hitanshusingh)
 
 - 📫 How to reach me **2002hitanshu@gmail.com**
 
