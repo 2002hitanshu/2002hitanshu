@@ -55,9 +55,6 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2002hitanshu&show_icons=true&locale=en" alt="2002hitanshu" />
-</div>
 //reminding me to change this in future
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2002hitanshu&show_icons=true&locale=en&layout=compact" alt="2002hitanshu" /></p></div>
